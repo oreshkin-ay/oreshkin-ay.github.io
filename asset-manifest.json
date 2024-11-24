@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/oreshkin-ay.github.io/static/css/main.d06c9a5f.css",
-    "main.js": "/oreshkin-ay.github.io/static/js/main.41871a5c.js",
-    "static/js/453.ed3810f9.chunk.js": "/oreshkin-ay.github.io/static/js/453.ed3810f9.chunk.js",
-    "static/media/botton.png": "/oreshkin-ay.github.io/static/media/botton.1663ccfd232208437406.png",
-    "static/media/left_panel.png": "/oreshkin-ay.github.io/static/media/left_panel.1b663a8ecf5c367c3239.png",
-    "static/media/right_panel.png": "/oreshkin-ay.github.io/static/media/right_panel.f6b032e01988252ea480.png",
-    "static/media/center.png": "/oreshkin-ay.github.io/static/media/center.b1cfa243435ff9dd502a.png",
-    "static/media/left.png": "/oreshkin-ay.github.io/static/media/left.e71c83f651adedaaf1aa.png",
-    "static/media/right.png": "/oreshkin-ay.github.io/static/media/right.98d8b9ce8480d27155b9.png",
-    "index.html": "/oreshkin-ay.github.io/index.html",
-    "main.d06c9a5f.css.map": "/oreshkin-ay.github.io/static/css/main.d06c9a5f.css.map",
-    "main.41871a5c.js.map": "/oreshkin-ay.github.io/static/js/main.41871a5c.js.map",
-    "453.ed3810f9.chunk.js.map": "/oreshkin-ay.github.io/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/my-app/static/css/main.d06c9a5f.css",
+    "main.js": "/my-app/static/js/main.59c3fa42.js",
+    "static/js/453.ed3810f9.chunk.js": "/my-app/static/js/453.ed3810f9.chunk.js",
+    "static/media/botton.png": "/my-app/static/media/botton.1663ccfd232208437406.png",
+    "static/media/left_panel.png": "/my-app/static/media/left_panel.1b663a8ecf5c367c3239.png",
+    "static/media/right_panel.png": "/my-app/static/media/right_panel.f6b032e01988252ea480.png",
+    "static/media/center.png": "/my-app/static/media/center.b1cfa243435ff9dd502a.png",
+    "static/media/left.png": "/my-app/static/media/left.e71c83f651adedaaf1aa.png",
+    "static/media/right.png": "/my-app/static/media/right.98d8b9ce8480d27155b9.png",
+    "index.html": "/my-app/index.html",
+    "main.d06c9a5f.css.map": "/my-app/static/css/main.d06c9a5f.css.map",
+    "main.59c3fa42.js.map": "/my-app/static/js/main.59c3fa42.js.map",
+    "453.ed3810f9.chunk.js.map": "/my-app/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d06c9a5f.css",
-    "static/js/main.41871a5c.js"
+    "static/js/main.59c3fa42.js"
   ]
 }
