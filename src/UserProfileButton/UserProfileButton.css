@@ -1,0 +1,46 @@
+.user-profile-button {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  padding: 5px 10px;
+  background-color: transparent;
+  border: none;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+  color: inherit;
+}
+
+.user-profile-button:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.user-avatar {
+  width: 32px;
+  height: 32px;
+  background-color: #00d9ff;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+}
+
+.user-name {
+  font-size: 14px;
+  font-weight: 500;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+.dropdown-icon {
+  font-size: 12px;
+  color: #ffffff;
+  transition: transform 0.3s ease;
+}
+
+.user-profile-button:hover .dropdown-icon {
+  transform: rotate(180deg);
+}

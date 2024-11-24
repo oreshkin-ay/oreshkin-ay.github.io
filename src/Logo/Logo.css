@@ -1,0 +1,14 @@
+.logo-wrapper {
+  position: absolute;
+  z-index: 10;
+  left: 0;
+  right: 0;
+  top: 70px;
+  display: flex;
+  justify-content: center;
+  transition: transform 0.5s ease;
+}
+
+.logo-wrapper.move-left {
+  transform: translateX(calc(-50% + 200px));
+}
