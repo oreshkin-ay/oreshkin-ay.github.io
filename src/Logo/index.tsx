@@ -1,6 +1,6 @@
 import clsx from "clsx";
 
-import { Menu } from "../Menu";
+import { Menu } from "../pages/landing/ui/Menu";
 import { Logo as LogoIcon } from "../icons/logo";
 import "./Logo.css";
 

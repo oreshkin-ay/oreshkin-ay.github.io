@@ -1,5 +1,5 @@
-import { Btn } from "../../icons/btn";
-import { LeftLine } from "../../left_line";
+import { Btn } from "icons/btn";
+import { LeftLine } from "left_line";
 
 interface LeftActionProps {
   direction: string;

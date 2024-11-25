@@ -12,7 +12,6 @@
   color: #ffffff;
   font-family: Arial, sans-serif;
 }
-/* //  */
 
 .menu-items {
   display: flex;
@@ -30,7 +29,7 @@
 }
 
 .menu-item:hover {
-  color: #00b4d8; /* Highlight color on hover */
+  color: #00b4d8;
 }
 
 .user-profile {
@@ -42,7 +41,7 @@
 .user-avatar {
   width: 32px;
   height: 32px;
-  background-color: #00d9ff; /* Avatar background color */
+  background-color: #00d9ff;
   color: #ffffff;
   font-weight: 700;
   font-size: 14px;

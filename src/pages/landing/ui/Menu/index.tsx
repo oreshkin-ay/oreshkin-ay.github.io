@@ -1,5 +1,3 @@
-import React from "react";
-
 import { UserProfileButton } from "../UserProfileButton";
 import "./Menu.css";
 
@@ -37,8 +35,8 @@ export const Menu = () => {
       </div>
 
       <UserProfileButton
-        initials="SN"
-        name="Михаил Алексеев"
+        initials={userProfile.initials}
+        name={userProfile.name}
         // onClick={handleProfileClick}
       />
     </div>

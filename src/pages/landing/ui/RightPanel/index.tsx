@@ -1,5 +1,5 @@
-import { Close } from "../icons/close";
-import right_panel from "../images/right_panel.png";
+import { Close } from "icons/close";
+import right_panel from "images/right_panel.png";
 
 interface RightPanelProps {
   hasAnimated: boolean;

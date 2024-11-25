@@ -1,5 +1,5 @@
-import { Close } from "../icons/close";
-import left_panel from "../images/left_panel.png";
+import { Close } from "icons/close";
+import left_panel from "images/left_panel.png";
 
 interface LeftPanelProps {
   hasAnimated: boolean;

@@ -1,4 +1,4 @@
-import { LogIn } from "../icons/logIn";
+import { LogIn } from "../../../../icons/logIn";
 import "./Entrance.css";
 
 interface EntranceProps {

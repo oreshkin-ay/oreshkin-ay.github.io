@@ -1,5 +1,5 @@
-import { Btn } from "../../icons/btn";
-import { RightLine } from "../../right_line";
+import { Btn } from "icons/btn";
+import { RightLine } from "right_line";
 
 interface RightActionProps {
   direction: string;
