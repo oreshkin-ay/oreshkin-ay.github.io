@@ -7,8 +7,8 @@ export const User = () => (
     xmlns="http://www.w3.org/2000/svg"
   >
     <path
-      fill-rule="evenodd"
-      clip-rule="evenodd"
+      fillRule="evenodd"
+      clipRule="evenodd"
       d="M7.63558 7.12099C7.63558 4.84503 9.58951 3 11.9998 3C14.4101 3 16.364 4.84503 16.364 7.12099C16.364 9.39694 14.4101 11.242 11.9998 11.242C9.58951 11.242 7.63558 9.39694 7.63558 7.12099Z"
       fill="#FBFBFB"
     />

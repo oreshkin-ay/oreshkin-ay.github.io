@@ -1,8 +1,8 @@
 import { Logo } from "pages/profile/icons/Logo";
 
 import ozon from "../../images/Ozon.png";
-import ButtonList from "./ButtonList";
 import LogoutButton from "./LogoutButton";
+import MenuList from "./MenuList";
 import "./Sidebar.css";
 import SuperAppCard from "./SuperAppCard";
 
@@ -14,7 +14,7 @@ const Sidebar = () => {
           <Logo />
         </div>
         <nav className="nav">
-          <ButtonList />
+          <MenuList />
         </nav>
       </div>
 
