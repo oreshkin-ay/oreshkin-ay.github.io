@@ -1,5 +1,8 @@
+import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
+
+import Profile from "pages/profile";
+
 import "./App.css";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Landing from "./pages/landing";
 
 function App() {
@@ -8,7 +11,7 @@ function App() {
       <div className="App">
         <Routes>
           <Route path="/" element={<Landing />} />
-          {/* <Route path="/profile" element={<Profile />} /> */}
+          <Route path="/profile" element={<Profile />} />
         </Routes>
       </div>
     </Router>

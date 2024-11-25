@@ -1,5 +1,4 @@
 import clsx from "clsx";
-
 import center from "images/center.png";
 import left from "left.png";
 import right from "right.png";

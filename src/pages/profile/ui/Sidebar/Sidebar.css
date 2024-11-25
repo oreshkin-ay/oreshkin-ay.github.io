@@ -1,0 +1,40 @@
+.sidebar {
+  width: 250px;
+  background-color: #1e1e1e;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+
+.sidebar-menu {
+  display: flex;
+  flex-direction: column;
+}
+
+.actions {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  margin-bottom: 48px;
+}
+
+.ozon {
+  margin-bottom: 40px;
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.super-app {
+  margin-top: auto;
+  padding: 10px;
+  background-color: #333;
+}

@@ -1,0 +1,30 @@
+.button-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.button-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background-color: transparent;
+  border: none;
+  padding: 16px;
+  border-radius: 12px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.button-item:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+.button-item.active {
+  background-color: #444;
+  color: #fff;
+}

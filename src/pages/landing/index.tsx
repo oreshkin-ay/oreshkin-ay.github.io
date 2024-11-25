@@ -2,15 +2,15 @@ import { useState } from "react";
 
 import clsx from "clsx";
 
+import { Logo } from "../../Logo";
+import botton from "../../images/botton.png";
 import "./Landing.css";
 import { Balls } from "./ui/Balls";
 import { Entrance } from "./ui/Entrance";
 import { LeftPanel } from "./ui/LeftPanel";
-import { Logo } from "../../Logo";
 import { RightPanel } from "./ui/RightPanel";
 import { LeftAction } from "./ui/actions/Left";
 import { RightAction } from "./ui/actions/Right";
-import botton from "../../images/botton.png";
 
 function Landing() {
   const [direction, setDirection] = useState("center");

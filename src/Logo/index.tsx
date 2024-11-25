@@ -1,7 +1,7 @@
 import clsx from "clsx";
 
-import { Menu } from "../pages/landing/ui/Menu";
 import { Logo as LogoIcon } from "../icons/logo";
+import { Menu } from "../pages/landing/ui/Menu";
 import "./Logo.css";
 
 interface LogoPanelProps {
