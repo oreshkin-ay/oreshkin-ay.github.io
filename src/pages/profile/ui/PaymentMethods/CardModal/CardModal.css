@@ -1,0 +1,99 @@
+/* Overlay styles */
+.gradient-modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.7); /* Dimmed background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Modal content styles */
+  .gradient-modal-content {
+    /* background: linear-gradient(90deg, #ff0000, #ff4500, #ff0000);  */
+    background: linear-gradient(180deg, red, black);
+    color: #fff;
+    border-radius: 20px;
+    padding: 20px;
+    width: 400px;
+    position: relative;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.1); /* Optional border for contrast */
+  }
+  
+  
+  /* Close button */
+  .gradient-modal-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  /* Modal header */
+  .gradient-modal-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Modal body */
+  .gradient-modal-body {
+    padding: 20px;
+    background-color: #121212;
+    border-radius: 15px;
+    margin-bottom: 20px;
+  }
+  
+  /* Placeholder styling */
+  .form-placeholder {
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1a1a1a;
+    border-radius: 10px;
+    color: #777;
+  }
+  
+  /* Modal footer */
+  .gradient-modal-footer {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  /* Primary button */
+  .primary-button {
+    background-color: #0057ff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .primary-button:hover {
+    background-color: #0046cc;
+  }
+  
+  /* Secondary button */
+  .secondary-button {
+    background: none;
+    border: none;
+    color: #777;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .secondary-button:hover {
+    color: #fff;
+  }
+  

@@ -3,6 +3,7 @@ import { UserLogo } from "pages/profile/icons/UserLogo";
 
 import Finance from "../Finance";
 import Fleet from "../Fleet";
+// import DashboardSkeleton from "./DashboardSkeleton";
 import "./ProfileInfo.css";
 
 const ProfileInfo = () => {
@@ -24,6 +25,7 @@ const ProfileInfo = () => {
       </div>
 
       <div className="content-sections">
+        {/* <DashboardSkeleton /> */}
         <Fleet />
         <Finance />
       </div>
