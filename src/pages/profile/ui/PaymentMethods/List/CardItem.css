@@ -1,0 +1,48 @@
+.card-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1a1a1a;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+
+  padding: 16px 24px 16px 24px;
+  border-radius: 16px;
+  background: #232323;
+}
+
+.card-item:hover {
+  background-color: #333;
+}
+
+.card-info {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.card-logo {
+  width: 30px;
+  margin-right: 10px;
+}
+
+.card-text {
+  color: #fff;
+  font-size: 16px;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 20px;
+}
+
+.card-default {
+  margin-left: 10px;
+  color: #f5c518;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.card-arrow {
+  color: #fff;
+  font-size: 20px;
+}
